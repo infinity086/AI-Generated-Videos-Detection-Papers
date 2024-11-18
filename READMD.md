@@ -12,7 +12,7 @@
 
 <details open>
 <summary>2024</summary>
-* [ ] On Learning Multi-Modal Forgery Representation for Diffusion Generated Video Detection [![paper](https://img.shields.io/badge/NeurIPS_'24-dc3545)](https://arxiv.org/abs/2410.14980) [![GitHub](https://img.shields.io/github/stars/w2kun/DCDepth?style=flat)](https://github.com/w2kun/DCDepth)
+* [ ] On Learning Multi-Modal Forgery Representation for Diffusion Generated Video Detection [![paper](https://img.shields.io/badge/NeurIPS_24-dc3545)](https://arxiv.org/abs/2410.23623) [![GitHub](https://img.shields.io/github/stars/SparkleXFantasy/MM-Det?style=flat)](https://github.com/SparkleXFantasy/MM-Det)
 
 
 
