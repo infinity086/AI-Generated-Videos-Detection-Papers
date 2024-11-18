@@ -14,12 +14,12 @@
 <summary>2024</summary>
 
 * [ ] On Learning Multi-Modal Forgery Representation for Diffusion Generated Video Detection [![paper](https://img.shields.io/badge/NeurIPS_'24-dc3545)](https://arxiv.org/abs/2410.23623) [![GitHub](https://img.shields.io/github/stars/SparkleXFantasy/MM-Det?style=flat)](https://github.com/SparkleXFantasy/MM-Det)
-* [ ] Turns Out I’m Not Real: Towards Robust Detection of AI-Generated Videos [![paper](https://img.shields.io/badge/Arxiv-2406.09601-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2406.09601)
 * [ ] What Matters in Detecting AI-Generated Videos like Sora? [![paper](https://img.shields.io/badge/Arxiv-2406.19568-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2406.19568)  [![Project](https://img.shields.io/badge/Project-ffc107)](https://justin-crchang.github.io/3DCNNDetection.github.io/)
+* [ ] Turns Out I’m Not Real: Towards Robust Detection of AI-Generated Videos [![paper](https://img.shields.io/badge/Arxiv-2406.09601-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2406.09601)
 * [ ] DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark [![paper](https://img.shields.io/badge/Arxiv-2405.19707-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2405.19707) [![GitHub](https://img.shields.io/github/stars/chenhaoxing/DeMamba?style=flat)](https://github.com/chenhaoxing/DeMamba)
 * [ ] Distinguish Any Fake Videos: Unleashing the Power of Large-scale Data and Motion Features [![paper](https://img.shields.io/badge/Arxiv-2405.15343-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2405.15343)
 * [ ] Exposing AI-generated Videos: A Benchmark Dataset and a Local-and-Global Temporal Defect Based Detection Method [![paper](https://img.shields.io/badge/Arxiv-2405.04133-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2405.04133)
-* [ ] Beyond Deepfake Images: Detecting AI-Generated Videos [![paper](https://img.shields.io/badge/Arxiv-2404.15955-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2404.15955) [![Datasets](https://img.shields.io/badge/Datasets-228b22)](https://huggingface.co/datasets/ductai199x/synth-vid-detect)
+* [ ] Beyond Deepfake Images: Detecting AI-Generated Videos [![paper](https://img.shields.io/badge/CVPRW_'24-ff4500)](https://arxiv.org/abs/2404.15955) [![Datasets](https://img.shields.io/badge/Datasets-228b22)](https://huggingface.co/datasets/ductai199x/synth-vid-detect)
 * [ ] AI-Generated Video Detection via Spatio-Temporal Anomaly Learning [![paper](https://img.shields.io/badge/PRCV_'24-ff8c00)](https://arxiv.org/abs/2403.16638) [![GitHub](https://img.shields.io/github/stars/multimediaFor/AIGVDet?style=flat)](https://github.com/multimediaFor/AIGVDet)
 * [ ] DeCoF: Generated Video Detection via Frame Consistency: The First Benchmark Dataset [![paper](https://img.shields.io/badge/Arxiv-2402.02085-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2402.02085) [![GitHub](https://img.shields.io/github/stars/wuwuwuyue/DeCoF?style=flat)](https://github.com/wuwuwuyue/DeCoF/)
 </details>
