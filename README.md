@@ -29,13 +29,13 @@
 <summary>2025</summary>
 
 * [ ] LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection [![paper](https://img.shields.io/badge/Arxiv-2502.14994-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2502.14994)
-* [ ] GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video [![paper](https://img.shields.io/badge/Arxiv-2501.11340-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2501.11340)
+* [ ] GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video [![paper](https://img.shields.io/badge/Arxiv-2501.11340-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2501.11340) [![Github](https://img.shields.io/github/stars/genvidbench/GenVidBench?style=flat)](https://github.com/genvidbench/GenVidBench)
 </details>
 
 <details open>
 <summary>2024</summary>
 
-* [ ] Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content [![paper](https://img.shields.io/badge/Arxiv-2412.12278-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2412.12278) [![Github](https://img.shields.io/github/stars/genvidbench/GenVidBench?style=flat)](https://github.com/genvidbench/GenVidBench)
+* [ ] Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content [![paper](https://img.shields.io/badge/Arxiv-2412.12278-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2412.12278)
 * [ ] SafeWatch: An Efficient Safety-Policy Following Video Guardrail Model with Transparent Explanations [![paper](https://img.shields.io/badge/ICLR_'25-dc3545)](https://arxiv.org/abs/2412.06878) [![GitHub](https://img.shields.io/github/stars/BillChan226/SafeWatch?style=flat)](https://github.com/BillChan226/SafeWatch/) [![Project](https://img.shields.io/badge/Project-ffb6c1)](https://safewatch-aiguard.github.io/)
 * [ ] On Learning Multi-Modal Forgery Representation for Diffusion Generated Video Detection [![paper](https://img.shields.io/badge/NeurIPS_'24-dc3545)](https://arxiv.org/abs/2410.23623) [![GitHub](https://img.shields.io/github/stars/SparkleXFantasy/MM-Det?style=flat)](https://github.com/SparkleXFantasy/MM-Det)
 * [ ] What Matters in Detecting AI-Generated Videos like Sora? [![paper](https://img.shields.io/badge/Arxiv-2406.19568-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2406.19568)  [![Project](https://img.shields.io/badge/Project-ffb6c1)](https://justin-crchang.github.io/3DCNNDetection.github.io/)
