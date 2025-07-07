@@ -54,6 +54,16 @@
 </details>
 
 
+### Synthetic Image Detection Using Large Language Models (大模型微调算法)
+<details open>
+<summary>2025</summary>
+
+* [ ] Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs [![paper](https://img.shields.io/badge/Arxiv-2506.07045-6c757d.svg?logo=arXiv)](https://www.arxiv.org/abs/2506.07045)
+* [ ] So-Fake: Benchmarking and Explaining Social Media Image Forgery Detection [![paper](https://img.shields.io/badge/Arxiv-2505.18660-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2505.18660) [![Github](https://img.shields.io/github/stars/hzlsaber/So-Fake?style=flat)](https://github.com/hzlsaber/So-Fake/) [![Project](https://img.shields.io/badge/Project-ffb6c1)](https://hzlsaber.github.io/projects/So-Fake/)
+* [ ] LEGION: Learning to Ground and Explain for Synthetic Image Detection [![paper](https://img.shields.io/badge/Arxiv-2503.15264-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2503.15264) [![Github](https://img.shields.io/github/stars/opendatalab/LEGION?style=flat)](https://github.com/opendatalab/LEGION) [![Project](https://img.shields.io/badge/Project-ffb6c1)](https://opendatalab.github.io/LEGION/)
+* [ ] Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation [![paper](https://img.shields.io/badge/Arxiv-2503.14905-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2503.14905) [![Github](https://img.shields.io/github/stars/opendatalab/FakeVLM?style=flat)](https://github.com/opendatalab/FakeVLM)
+* [ ] SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model [![paper](https://img.shields.io/badge/CVPR_'25-dc3545)](https://arxiv.org/abs/2412.04292) [![Github](https://img.shields.io/github/stars/hzlsaber/SIDA?style=flat)](https://github.com/hzlsaber/SIDA) [![Project](https://img.shields.io/badge/Project-ffb6c1)](https://hzlsaber.github.io/projects/SIDA)
+
 ### Misinformation Detection Using Large Language Models (大模型检测虚假信息)
 
 <details open>
