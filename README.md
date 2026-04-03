@@ -1,6 +1,6 @@
 <div align="center">
 
-# Survey: AI-Generated Media Detection
+# AI-Generated Content Detection
 
 ![Papers](https://img.shields.io/badge/Total_Papers-36-blue?style=for-the-badge)
 ![Datasets](https://img.shields.io/badge/Datasets-11-green?style=for-the-badge)
