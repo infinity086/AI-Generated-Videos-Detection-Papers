@@ -2,7 +2,7 @@
 
 # AI-Generated Content Detection
 
-![Papers](https://img.shields.io/badge/Total_Papers-36-blue?style=for-the-badge)
+![Papers](https://img.shields.io/badge/Total_Papers-37-blue?style=for-the-badge)
 ![Datasets](https://img.shields.io/badge/Datasets-11-green?style=for-the-badge)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-2026--04-orange?style=for-the-badge)
 
@@ -73,12 +73,13 @@ A curated collection of papers, datasets, and methods for detecting AI-generated
 </details>
 
 <details open>
-<summary><b>2025</b> (10 papers)</summary>
+<summary><b>2025</b> (11 papers)</summary>
 
 &nbsp;
 
 |  | Paper | Links |
 |:-|:------|:------|
+| | **DeeptraceReward**: Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs | [![paper](https://img.shields.io/badge/Arxiv-2509.22646-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2509.22646) [![GitHub](https://img.shields.io/github/stars/deeptracereward/deeptracereward?style=flat)](https://github.com/deeptracereward/deeptracereward) [![Project](https://img.shields.io/badge/Project-ffb6c1)](https://deeptracereward.github.io/) |
 | | **BrokenVideos**: A Benchmark Dataset for Fine-Grained Artifact Localization in AI-Generated Videos | [![paper](https://img.shields.io/badge/ACM_MM_'25-dc3545)](https://arxiv.org/abs/2506.20103) [![Project](https://img.shields.io/badge/Project-ffb6c1)](https://broken-video-detection-datetsets.github.io/Broken-Video-Detection-Datasets.github.io/) |
 | | **WaveRep**: Seeing What Matters: Generalizable AI-generated Video Detection with Forensic-Oriented Augmentation | [![paper](https://img.shields.io/badge/NeurIPS_'25-dc3545)](https://arxiv.org/abs/2506.16802) [![GitHub](https://img.shields.io/github/stars/grip-unina/WaveRep-SyntheticVideoDetection?style=flat)](https://github.com/grip-unina/WaveRep-SyntheticVideoDetection) [![Project](https://img.shields.io/badge/Project-ffb6c1)](https://grip-unina.github.io/WaveRep-SyntheticVideoDetection/) |
 | | **GenWorld**: Towards Detecting AI-generated Real-world Simulation Videos | [![paper](https://img.shields.io/badge/Arxiv-2506.10975-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2506.10975) |
