@@ -2,9 +2,9 @@
 
 # AI-Generated Content Detection
 
-![Papers](https://img.shields.io/badge/Total_Papers-37-blue?style=for-the-badge)
-![Datasets](https://img.shields.io/badge/Datasets-11-green?style=for-the-badge)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--04-orange?style=for-the-badge)
+![Papers](https://img.shields.io/badge/Total_Papers-48-blue?style=for-the-badge)
+![Datasets](https://img.shields.io/badge/Datasets-13-green?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--05-orange?style=for-the-badge)
 
 A curated collection of papers, datasets, and methods for detecting AI-generated content.
 
@@ -41,6 +41,8 @@ A curated collection of papers, datasets, and methods for detecting AI-generated
 
 | Dataset | Download | Paper | Count | Size |
 |:--------|:---------|:------|------:|-----:|
+| **Artifact-Bench** | [HuggingFace](https://huggingface.co/datasets/DogNeverSleep/Artifact-Bench) | [Artifact-Bench](https://arxiv.org/abs/2605.18984) `Arxiv 2605` | — | — |
+| **FSFR** | [HuggingFace](https://huggingface.co/datasets/SJJ0854/FSFR) | [OmniVL-Guard](https://arxiv.org/abs/2602.10687) `ICML 2026` | — | — |
 | **AIGVDBench** | [HuggingFace](https://huggingface.co/datasets/AIGVDBench/AIGVDBench) | [AIGVDBench](https://arxiv.org/abs/2601.11035) `Arxiv 2601` | — | — |
 | **Magic-Videos** | [HuggingFace](https://huggingface.co/datasets/mgiant/magic_videos) | [Preserving Forgery Artifacts](https://openreview.net/forum?id=XD43lfRCg6) `ICLR 2026` | — | — |
 | **BrokenVideos** | [Baidu Pan](https://pan.baidu.com/s/1FQbUXuoPm3rOtamUzTtOWA?pwd=i38e) / [Project](https://broken-video-detection-datetsets.github.io/Broken-Video-Detection-Datasets.github.io/) | [BrokenVideos](https://dl.acm.org/doi/10.1145/3746027.3758305) `ACM MM 2025` | — | — |
@@ -56,14 +58,24 @@ A curated collection of papers, datasets, and methods for detecting AI-generated
 ### Methods
 
 <details open>
-<summary><b>2026</b> (7 papers)</summary>
+<summary><b>2026</b> (17 papers)</summary>
 
 &nbsp;
 
 |  | Paper | Links |
 |:-|:------|:------|
+| | **Artifact-Bench**: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos | [![paper](https://img.shields.io/badge/Arxiv-2605.18984-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2605.18984) [![Datasets](https://img.shields.io/badge/Datasets-ff001)](https://huggingface.co/datasets/DogNeverSleep/Artifact-Bench) |
+| | **SpecSem-Net**: Integrating Spectral and Semantic Features for Robust AI-generated Video Detection | [![paper](https://img.shields.io/badge/Arxiv-2605.17311-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2605.17311) |
+| | **OmniVL-Guard Pro**: A Tool-Augmented Agent for Omnibus Vision-Language Forensics | [![paper](https://img.shields.io/badge/Arxiv-2605.16962-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2605.16962v2) [![GitHub](https://img.shields.io/github/stars/shen8424/OmniVL-Guard-Pro?style=flat)](https://github.com/shen8424/OmniVL-Guard-Pro) |
+| | **Temporal Attack**: Exposing and Mitigating Temporal Attack in Deepfake Video Detection | [![paper](https://img.shields.io/badge/Arxiv-2605.07398-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2605.07398) |
+| | **Multi-Modal Forgery Representation Learning**: Towards Multi-Modal Forgery Representation Learning for AI-Generated Video Detection and Localization | [![paper](https://img.shields.io/badge/Arxiv-2605.07232-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2605.07232) [![GitHub](https://img.shields.io/github/stars/Purdue-M2/Deepfake-Detection?style=flat)](https://github.com/Purdue-M2/Deepfake-Detection) |
+| | **SAFE Challenge**: Advancing Reliable Synthetic Video Detection: Insights from the SAFE Challenge | [![paper](https://img.shields.io/badge/Arxiv-2605.06912-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2605.06912) [![Project](https://img.shields.io/badge/Project-ffb6c1)](https://safe-video-2025.dsri.org/) |
+| | **Spiking Neural Networks**: Detecting AI-Generated Videos with Spiking Neural Networks | [![paper](https://img.shields.io/badge/Arxiv-2605.05895-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2605.05895) |
+| | **CMTA**: Leveraging Cross-Modal Temporal Artifacts for Generalizable AI-Generated Video Detection | [![paper](https://img.shields.io/badge/Arxiv-2605.00630-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2605.00630) [![GitHub](https://img.shields.io/github/stars/hwang-cs-ime/CMTA?style=flat)](https://github.com/hwang-cs-ime/CMTA) |
+| | **ATSS**: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity | [![paper](https://img.shields.io/badge/Arxiv-2604.04029-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2604.04029) [![GitHub](https://img.shields.io/github/stars/hwang-cs-ime/ATSS?style=flat)](https://github.com/hwang-cs-ime/ATSS) |
 | | **GenVideoLens**: Where LVLMs Fall Short in AI-Generated Video Detection? | [![paper](https://img.shields.io/badge/Arxiv-2603.18625-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2603.18625) |
-| | **VideoVeritas**: AI-Generated Video Detection via Perception Pretext Reinforcement Learning | [![paper](https://img.shields.io/badge/Arxiv-2602.08828-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2602.08828) [![GitHub](https://img.shields.io/github/stars/EricTan7/VideoVeritas?style=flat)](https://github.com/EricTan7/VideoVeritas) [![Model](https://img.shields.io/badge/Model-ModelScope-624aff)](https://www.modelscope.cn/models/EricTanh/VideoVeritas) [![Datasets](https://img.shields.io/badge/Datasets-ff001)](https://www.modelscope.cn/datasets/EricTanh/MintVid) |
+| | **OmniVL-Guard**: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL | [![paper](https://img.shields.io/badge/ICML_'26-dc3545)](https://arxiv.org/abs/2602.10687) [![GitHub](https://img.shields.io/github/stars/shen8424/OmniVL-Guard?style=flat)](https://github.com/shen8424/OmniVL-Guard) [![Datasets](https://img.shields.io/badge/Datasets-ff001)](https://huggingface.co/datasets/SJJ0854/FSFR) |
+| | **VideoVeritas**: AI-Generated Video Detection via Perception Pretext Reinforcement Learning | [![paper](https://img.shields.io/badge/ICML_'26-dc3545)](https://arxiv.org/abs/2602.08828) [![GitHub](https://img.shields.io/github/stars/EricTan7/VideoVeritas?style=flat)](https://github.com/EricTan7/VideoVeritas) [![Model](https://img.shields.io/badge/Model-ModelScope-624aff)](https://www.modelscope.cn/models/EricTanh/VideoVeritas) [![Datasets](https://img.shields.io/badge/Datasets-ff001)](https://www.modelscope.cn/datasets/EricTanh/MintVid) |
 | | **MPF-Net**: Exposing High-Fidelity AI-Generated Video Forgeries via Hierarchical Manifold Deviation and Micro-Temporal Fluctuations | [![paper](https://img.shields.io/badge/Arxiv-2601.21408-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2601.21408) |
 | | **AIGVDBench**: Your One-Stop Solution for AI-Generated Video Detection | [![paper](https://img.shields.io/badge/Arxiv-2601.11035-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2601.11035) [![GitHub](https://img.shields.io/github/stars/LongMa-2025/AIGVDBench?style=flat)](https://github.com/LongMa-2025/AIGVDBench) [![Datasets](https://img.shields.io/badge/Datasets-ff001)](https://huggingface.co/datasets/AIGVDBench/AIGVDBench) |
 | | **Qwen2.5ViT-AIGVDetection**: Preserving Forgery Artifacts: AI-Generated Video Detection at Native Scale | [![paper](https://img.shields.io/badge/ICLR_'26-dc3545)](https://openreview.net/forum?id=XD43lfRCg6) [![GitHub](https://img.shields.io/github/stars/mgiant/Qwen2.5ViT-AIGVDetection?style=flat)](https://github.com/mgiant/Qwen2.5ViT-AIGVDetection) |
@@ -73,12 +85,13 @@ A curated collection of papers, datasets, and methods for detecting AI-generated
 </details>
 
 <details open>
-<summary><b>2025</b> (11 papers)</summary>
+<summary><b>2025</b> (12 papers)</summary>
 
 &nbsp;
 
 |  | Paper | Links |
 |:-|:------|:------|
+| | **Grab-3D**: Detecting AI-Generated Videos from 3D Geometric Temporal Consistency | [![paper](https://img.shields.io/badge/Arxiv-2512.13665-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2512.13665) |
 | | **DeeptraceReward**: Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs | [![paper](https://img.shields.io/badge/Arxiv-2509.22646-6c757d.svg?logo=arXiv)](https://arxiv.org/abs/2509.22646) [![GitHub](https://img.shields.io/github/stars/deeptracereward/deeptracereward?style=flat)](https://github.com/deeptracereward/deeptracereward) [![Project](https://img.shields.io/badge/Project-ffb6c1)](https://deeptracereward.github.io/) |
 | | **BrokenVideos**: A Benchmark Dataset for Fine-Grained Artifact Localization in AI-Generated Videos | [![paper](https://img.shields.io/badge/ACM_MM_'25-dc3545)](https://arxiv.org/abs/2506.20103) [![Project](https://img.shields.io/badge/Project-ffb6c1)](https://broken-video-detection-datetsets.github.io/Broken-Video-Detection-Datasets.github.io/) |
 | | **WaveRep**: Seeing What Matters: Generalizable AI-generated Video Detection with Forensic-Oriented Augmentation | [![paper](https://img.shields.io/badge/NeurIPS_'25-dc3545)](https://arxiv.org/abs/2506.16802) [![GitHub](https://img.shields.io/github/stars/grip-unina/WaveRep-SyntheticVideoDetection?style=flat)](https://github.com/grip-unina/WaveRep-SyntheticVideoDetection) [![Project](https://img.shields.io/badge/Project-ffb6c1)](https://grip-unina.github.io/WaveRep-SyntheticVideoDetection/) |
